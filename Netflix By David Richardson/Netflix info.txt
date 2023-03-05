@@ -1,0 +1,16 @@
+
+Netflix by David Richardson
+
+Video:
+https://www.youtube.com/watch?v=3PecUbnuYC4
+
+The dataset comes from the Tidy Tuesday project: 
+https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-04-20/readme.md
+
+Code: 
+https://github.com/dgrtwo/data-screencasts
+https://github.com/dgrtwo/data-screencasts/blob/master/2021_04_20_netflix_titles.Rmd
+
+
+Timestamped annotations of specific tricks, tips and tools used: 
+https://github.com/dgrtwo/data-screencasts/tree/master/screencast-annotations
